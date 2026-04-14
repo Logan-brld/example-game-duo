@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBite","path":"sprites/sBite/sBite.yy",},},
     {"id":{"name":"sTest","path":"sprites/sTest/sTest.yy",},},
   ],
   "resourceType":"GMProject",
