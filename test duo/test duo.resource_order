@@ -4,5 +4,6 @@
     {"name":"oTest","order":1,"path":"objects/oTest/oTest.yy",},
     {"name":"sBite","order":3,"path":"sprites/sBite/sBite.yy",},
     {"name":"sTest","order":2,"path":"sprites/sTest/sTest.yy",},
+    {"name":"sTest2","order":4,"path":"sprites/sTest2/sTest2.yy",},
   ],
 }
